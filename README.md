@@ -2,7 +2,7 @@
 Genchu kernel boot logo patchset
 
 
-![Genchu kernel boot logo](https://dev.gentoo.org/~alicef/genchu_boot_logo.png)
+![Genchu kernel boot logo](https://dev.gentoo.org/~alicef/genchu/genchu_boot_logo.png)
 
 
 ### Quick start
